@@ -1,0 +1,7 @@
+username: cbitosc
+full_name: N/A
+bio: Learn. Code. Share.
+link: https://linktr.ee/cbitosc?fbclid=PAZXh0bgNhZW0CMTEAAafqdMndKOzPMcMihibC2eue94yiojQWdPsrap7ferJsseuiPNg23xOpl0CORw_aem_JIp3fYxaG0CgOxJhZHugTw
+posts: 89
+followers: 2,106
+following: 10
