@@ -13,7 +13,7 @@ This Python automation script uses Selenium to log in to Instagram, visit a publ
   - Followers
   - Following
   - Bio/Description
-- Saves the output to `cbitosc_profile.txt`
+- Saves the output to `cbitosc_data.txt`
 
 ## 🛠️ Setup
 
